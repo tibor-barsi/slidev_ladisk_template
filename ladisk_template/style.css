@@ -1,0 +1,13 @@
+.slidev-page-1 .slidev-layout-cover .slidev-page-number {
+  display: none;
+}
+
+/* Ensure page numbers are visible on all other slides */
+.slidev-page-number {
+  display: block !important;
+}
+
+.slidev-layout {
+  padding-top: 60px !important;
+  padding-bottom: 50px !important;
+}
