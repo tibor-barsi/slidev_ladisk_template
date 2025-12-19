@@ -42,6 +42,8 @@ npm run export -- --format png         # Export as images
 npm run export -- --with-clicks        # Include each click animation as separate slide
 ```
 
+Example in ladisk_template/slides.pdf.
+
 ### Other Commands
 ```bash
 npx slidev --help        # Show all available options
