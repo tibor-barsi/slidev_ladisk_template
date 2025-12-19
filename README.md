@@ -4,7 +4,7 @@ A Slidev presentation template for creating professional slide decks with Markdo
 
 ## Getting Started
 
-Install dependencies:
+Go into `ladisk_template` and install dependencies:
 ```bash
 npm install
 # or
@@ -16,7 +16,11 @@ Start the development server:
 npm run dev
 # or
 pnpm dev
+# or simply
+slidev
 ```
+
+Running `slidev` will also install dependencies automatically.
 
 Visit <http://localhost:3030> to view your presentation.
 
